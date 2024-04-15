@@ -7,6 +7,10 @@ What is the new behavior?
 * Thismeans devs can change the font size on html and the text in supportedIonic Picker components will scale up/down appropriately
 * Add support for Dynamic Type on iOS (the iOS version of Dynamic FontScaling) for Picker Component.
 
+
+As depicted in the screenshots, When adjusting the font size on an iOS device, the text size of the page changes, but the text size within the Picker component remains unaffected.
+
+
 1X image
 ![1X](https://github.com/Kuldeepdev/picker-dynamic-font/blob/main/1x.png)
 
