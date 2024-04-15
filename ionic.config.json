@@ -1,0 +1,7 @@
+{
+  "name": "picker-dynamic-font",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
